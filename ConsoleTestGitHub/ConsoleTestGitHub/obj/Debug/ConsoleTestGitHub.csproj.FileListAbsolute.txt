@@ -1,0 +1,6 @@
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\bin\Debug\ConsoleTestGitHub.exe.config
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\bin\Debug\ConsoleTestGitHub.exe
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\bin\Debug\ConsoleTestGitHub.pdb
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\obj\Debug\ConsoleTestGitHub.csprojResolveAssemblyReference.cache
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\obj\Debug\ConsoleTestGitHub.exe
+C:\Users\comit06\Documents\GitHub\TestGitHub\ConsoleTestGitHub\ConsoleTestGitHub\obj\Debug\ConsoleTestGitHub.pdb
